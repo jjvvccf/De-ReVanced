@@ -91,6 +91,7 @@ private fun generatePatchList(version: String, patches: Set<Patch<*>>) {
         "com.amazon.mShop.android.shopping" to "Amazon Shopping",
         "com.nis.app" to "Inshorts",
         "com.facebook.orca" to "Messenger",
+        "com.mobilefootie.wc2010" to "FotMob",
     )
 
     val patchesMap = patches.sortedBy { it.name }.map {

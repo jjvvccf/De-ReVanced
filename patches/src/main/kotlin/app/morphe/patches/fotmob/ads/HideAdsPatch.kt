@@ -6,7 +6,6 @@ import app.morphe.util.returnEarly
 @Suppress("unused")
 val hideAdsPatch = bytecodePatch(
     name = "Hide ads",
-    description = "Hides ads in Fotmob.",
 ) {
     compatibleWith("com.mobilefootie.wc2010")
 
