@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-03-09T12:44:25",
-  "description": "# 1.0.0 (2026-03-09)\n\n\n### Bug Fixes\n\n* google photos patch logic ([58f8bc8](https://github.com/jjvvccf/De-ReVanced/commit/58f8bc80dfd601cfe5a5dfee81e64d78bab0f496))\n* make Google Photos spoof build patch self-contained ([7b431dd](https://github.com/jjvvccf/De-ReVanced/commit/7b431dd5a707231b5289db60a6fdee5d24b27832))\n* make gradlew executable ([3be2ec5](https://github.com/jjvvccf/De-ReVanced/commit/3be2ec51fff5990c174c166e7a02625971832063))\n* release 1.0.1 ([b68b315](https://github.com/jjvvccf/De-ReVanced/commit/b68b31503e57a9253237a3bf2be8bacfd23f7c86))\n* release 1.0.1 ([26175cf](https://github.com/jjvvccf/De-ReVanced/commit/26175cf2910917be08734a741087018e127a1648))\n\n\n### Features\n\n* release v1.1.0 ([901b2ec](https://github.com/jjvvccf/De-ReVanced/commit/901b2ec28fb8e5863d2085d471f0cf529de08422))",
-  "download_url": "https://github.com/jjvvccf/De-ReVanced/releases/download/v1.0.0/patches-1.0.0.mpp",
+  "created_at": "2026-03-09T13:05:31",
+  "description": "# [1.1.0](https://github.com/jjvvccf/De-ReVanced/compare/v1.0.0...v1.1.0) (2026-03-09)\n\n\n### Features\n\n* add Fotmob patch - hide ads ([ef27da3](https://github.com/jjvvccf/De-ReVanced/commit/ef27da3d1e02e8659fe0b098539e94daf07be619))",
+  "download_url": "https://github.com/jjvvccf/De-ReVanced/releases/download/v1.1.0/patches-1.1.0.mpp",
   "signature_download_url": "",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

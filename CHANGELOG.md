@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/jjvvccf/De-ReVanced/compare/v1.0.0...v1.1.0) (2026-03-09)
+
+
+### Features
+
+* add Fotmob patch - hide ads ([ef27da3](https://github.com/jjvvccf/De-ReVanced/commit/ef27da3d1e02e8659fe0b098539e94daf07be619))
+
 # 1.0.0 (2026-03-09)
 
 
