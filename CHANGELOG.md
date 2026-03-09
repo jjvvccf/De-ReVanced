@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/jjvvccf/De-ReVanced/compare/v1.1.0...v1.1.1) (2026-03-09)
+
+
+### Bug Fixes
+
+* update Fotmob patch to target shouldDisplayAds method ([c6da48d](https://github.com/jjvvccf/De-ReVanced/commit/c6da48d57ab533b9d086b099fe5b5b19a401ee58))
+
 # [1.1.0](https://github.com/jjvvccf/De-ReVanced/compare/v1.0.0...v1.1.0) (2026-03-09)
 
 

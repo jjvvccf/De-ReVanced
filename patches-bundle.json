@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-03-09T13:05:31",
-  "description": "# [1.1.0](https://github.com/jjvvccf/De-ReVanced/compare/v1.0.0...v1.1.0) (2026-03-09)\n\n\n### Features\n\n* add Fotmob patch - hide ads ([ef27da3](https://github.com/jjvvccf/De-ReVanced/commit/ef27da3d1e02e8659fe0b098539e94daf07be619))",
-  "download_url": "https://github.com/jjvvccf/De-ReVanced/releases/download/v1.1.0/patches-1.1.0.mpp",
+  "created_at": "2026-03-09T13:22:07",
+  "description": "## [1.1.1](https://github.com/jjvvccf/De-ReVanced/compare/v1.1.0...v1.1.1) (2026-03-09)\n\n\n### Bug Fixes\n\n* update Fotmob patch to target shouldDisplayAds method ([c6da48d](https://github.com/jjvvccf/De-ReVanced/commit/c6da48d57ab533b9d086b099fe5b5b19a401ee58))",
+  "download_url": "https://github.com/jjvvccf/De-ReVanced/releases/download/v1.1.1/patches-1.1.1.mpp",
   "signature_download_url": "",
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
