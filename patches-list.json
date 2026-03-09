@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "appNames": {
     "com.google.android.apps.photos": "Google Photos",
     "com.google.android.apps.magazines": "Google News",
@@ -17,7 +17,8 @@
     "com.tumblr": "Tumblr",
     "com.amazon.mShop.android.shopping": "Amazon Shopping",
     "com.nis.app": "Inshorts",
-    "com.facebook.orca": "Messenger"
+    "com.facebook.orca": "Messenger",
+    "com.mobilefootie.wc2010": "FotMob"
   },
   "patches": [
     {
@@ -318,7 +319,7 @@
     },
     {
       "name": "Hide ads",
-      "description": "Hides ads in Fotmob.",
+      "description": null,
       "use": true,
       "dependencies": [],
       "compatiblePackages": {

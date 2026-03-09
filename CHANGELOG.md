@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/jjvvccf/De-ReVanced/compare/v1.1.1...v1.2.0) (2026-03-09)
+
+
+### Features
+
+* add FotMob to patch list for better identification ([3ae7ad3](https://github.com/jjvvccf/De-ReVanced/commit/3ae7ad39aec1f3a7dbb2d2d8f755f7a370cd40b0))
+
 ## [1.1.1](https://github.com/jjvvccf/De-ReVanced/compare/v1.1.0...v1.1.1) (2026-03-09)
 
 
