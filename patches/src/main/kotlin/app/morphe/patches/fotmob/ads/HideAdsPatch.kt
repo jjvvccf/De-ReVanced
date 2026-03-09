@@ -1,7 +1,7 @@
 package app.morphe.patches.fotmob.ads
 
-import app.morphe.patcher.extensions.InstructionExtensions.addInstruction
 import app.morphe.patcher.patch.bytecodePatch
+import app.morphe.util.returnEarly
 
 @Suppress("unused")
 val hideAdsPatch = bytecodePatch(
@@ -11,9 +11,6 @@ val hideAdsPatch = bytecodePatch(
     compatibleWith("com.mobilefootie.wc2010")
 
     execute {
-        FotmobAdsFingerprint.method.addInstruction(
-            0,
-            "return-void",
-        )
+        ShouldDisplayAdsFingerprint.method.returnEarly(false)
     }
 }
